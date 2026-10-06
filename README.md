@@ -17,7 +17,7 @@ This project analyzes healthcare data to identify patient trends, billing patter
 - Analyzed patient count, billing, medical conditions, test results, and admission types
 
 ## Files Included
-- Healthcare_Cleaned.xlsx - Cleaned Dataset
+- Healthcare_Cleaned.csv - Cleaned Dataset
 - DASHBOARD CLEANED.pbix - Power BI Dashboard
 - 01_Project_Summary.sql - SQL Summary Queries
 - 02_SQL_Analysis.sql - SQL Analysis Queries
